@@ -3,6 +3,7 @@ layout: page
 title: "Privacy Policy"
 permalink: /privacypolicy
 ---
+
 **Privacy Policy**
 
 Gotitelig built the cosmolotofficail app as an Ad Supported app. This SERVICE is provided by Gotitelig at no cost and is intended for use as is.
